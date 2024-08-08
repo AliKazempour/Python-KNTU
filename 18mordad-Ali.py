@@ -60,7 +60,7 @@ else:
         fact = fact * i
     print(f"fact({number}) is {fact}")
 
-# claculating average in numbers list
+# calculating average in numbers list
 def claculate_avg(numbers):
     if len(numbers) == 0 :
         return 0
